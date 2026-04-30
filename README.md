@@ -1,1 +1,1 @@
-# Resume-Portfolio
+Aspiring Data Analyst with a strong foundation in data analysis, visualization, and problem-solving. Skilled in Excel, Power BI, SQL with hands-on experience in building dashboards and analyzing real-world datasets. Passionate about transforming data into actionable insights for business growth.
